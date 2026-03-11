@@ -7,7 +7,7 @@ Aqui registro exercícios, projetos e experimentos realizados durante minha jorn
 
 * C# / .NET
 * Python
-* Power BI
+* Power BI básico 
 * Lógica de Programação
 
 ## Estrutura do repositório
