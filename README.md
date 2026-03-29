@@ -1,23 +1,37 @@
-# Dev Estudos
+# Unit Converter
 
-Este repositório reúne meus estudos em programação e tecnologia.
-Aqui registro exercícios, projetos e experimentos realizados durante minha jornada de aprendizado.
+A simple unit converter built with HTML, CSS and JavaScript.
 
-## Tecnologias em estudo
+This project was created as part of my studies to practice basic front-end structure, user input handling and JavaScript logic.
 
-* C# / .NET
-* Python
-* Power BI básico 
-* Lógica de Programação
+## Features
 
-## Estrutura do repositório
+- Convert miles to kilometers
+- Convert kilometers to miles
+- Simple and direct interface
+- Instant result displayed on screen
 
-* **logica-programacao** → exercícios de lógica e algoritmos
-* **csharp** → práticas e projetos desenvolvidos em C#
-* **python** → scripts e automações em Python
-* **powerbi** → dashboards e análises de dados
-* **projetos** → projetos maiores que combinam vários conceitos
+## Technologies Used
 
-## Objetivo
+- HTML
+- CSS
+- JavaScript
 
-Construir uma base sólida em programação, desenvolver projetos práticos e registrar minha evolução na área de tecnologia.
+## Purpose
+
+This is a small study project made to reinforce core concepts such as:
+
+- form inputs
+- select options
+- DOM manipulation
+- functions in JavaScript
+- basic conversion logic
+
+## Status
+
+Completed as a practice project.
+
+## Author
+
+**Dymoob**  
+[GitHub Profile](https://github.com/Dymoob)
